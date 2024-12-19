@@ -1,42 +1,42 @@
+<h1>Hi, I'm Shikhar!</h1>
+<h3><a href="https://www.linkedin.com/in/shikharstha/">Product - Project & Program Management Professional</a></h3> 
 
-# Academic Pages
+As a people-first agile product leader, I excel in driving product development and delivering exceptional results. With a Product Management Certificate from Cornell University and a Bachelor's degree in Information Systems, coupled with hands-on experience in diverse industries, I bring a unique blend of skills to the table. I believe in fostering continous improvements and product development processses that help teams do best work. 
 
-![pages-build-deployment](https://github.com/academicpages/academicpages.github.io/actions/workflows/pages/pages-build-deployment/badge.svg)
+Throughout, I have built deep digital business transformation expertise by working closely with Sr. Director and VP -level stakeholders alleviate their primary challenges through Strategic Planning, Change Management, Resource Management, Risk Management, Stakeholder Engagement, and Performance Monitoring across R&D, POC, Supply Chain, Manufacturing, Data & Analytics, IT, HR, and SaaS Product.
 
-Academic Pages is a Github Pages template for academic websites.
+My distinct comprehension of end-to-end PLC along with business & technical leadership has enabled me to spearhead enterprise-wide digital transformation initiatives. With a strong technical skill set encompassing tools like JIRA, Clarity, Mural, SQL, and more, along with a passion for emerging technologies and leadership development, I am poised to drive impactful product initiatives and propel organizations forward.
 
+## Check out my work!
+* ### [Cognex Camera Vision - Automated Inventory Count at Tyson Foods](CognexProduct@tysonfoods.md) 
+* ### [Gocator Computer Vision - Meat Thickness Measurement at Tyson Foods](GocatorProduct@tysonfoods.md)
+* ### [Agile Data Analytics & UX Products at Tyson Foods](DataAnalytics&UXUI@tysonfoods.md)
+* ### [Software-as-a-Service (Saas) Products at Mid-America Co.](SaaSproduct@MACC.md)
+* ### [Web Application Product at Creighton](WebAppsProduct@Creighton.md)
+* ### [Tableau Cloud Product at Creighton](TableauMVP@Creighton.md)
 
-# Getting Started
+<!---## PROFESSIONAL EXPRERIENCE
+##### Tyson Foods Inc., Manager Project and Product, Springdale, AR (2023 - Present) <br />
+Launched Gocator computer vision and Cognex camera vision (MVPs), awarded Lean Six Sigma Green Belt Certificate
 
-1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
-1. Click the "Use this template" button in the top right.
-1. On the "New repository" page, enter your repository name as "[your GitHub username].github.io", which will also be your website's URL.
-1. Set site-wide configuration and add your content.
-1. Upload any files (like PDFs, .zip files, etc.) to the `files/` directory. They will appear at https://[your GitHub username].github.io/files/example.pdf.  
-1. Check status by going to the repository settings, in the "GitHub pages" section
-1. (Optional) Use the Jupyter notebooks or python scripts in the `markdown_generator` folder to generate markdown files for publications and talks from a TSV file.
+##### Tyson Foods Inc., Scrum Master, Springdale, AR (2021-2022) <br />
+Attained 30% increase in team velocity over 6 months, maintained 95% on time delivery rate, reduced features time-to-market by 20%, attained 90% team attendance rate for scrum events, awarded SAFe-Scrum Professional Certificate
 
-See more info at https://academicpages.github.io/
+##### Mid-America Co.,  Software Developer & Scrum Master, Omaha, NE (2020-2021) <br />
+Launched new Software as a Service (SaaS) features and attained 100% team attendance rate for scrum events
 
-## Running Locally
+##### Creighton University, Product Project Manager, Omaha, NE (2019-2020) <br />
+Revamped 100+ web pages and mobile apps, user satisfaction scores soared by 25%, launched Tableau SaaS solution
 
-When you are initially working your website, it is very useful to be able to preview the changes locally before pushing them to GitHub. To work locally you will need to:
+## VOLUNTEER EXPERIENCE
+##### Surya Social Service Society (4S), Project Coordinator, Jumla, Nepal (2012-2014)
+Coordinated people, transportation, and supplies for toilet construction activities in remote villages of Nepal --->
 
-1. Clone the repository and made updates as detailed above.
-1. Make sure you have ruby-dev, bundler, and nodejs installed: `sudo apt install ruby-dev ruby-bundler nodejs`
-1. Run `bundle install` to install ruby dependencies. If you get errors, delete Gemfile.lock and try again.
-1. Run `jekyll serve -l -H localhost` to generate the HTML and serve it from `localhost:4000` the local server will automatically rebuild and refresh the pages on change.
+## CERTIFICATIONS
+Product Management, Lean Six Sigma Green Belt, SAFe - Scrum Professional, Business Intelligence, PMP
 
-If you are running on Linux it may be necessary to install some additional dependencies prior to being able to run locally: `sudo apt install build-essentials gcc make`
+## EDUCATION
+##### SAINT CLOUD STATE UNIVERSITY, Bachelor of Science (B.S) in Information Systems, Saint Cloud, MN (2019)
 
-# Maintenance 
-
-Bug reports and feature requests to the template  should be [submitted via GitHub](https://github.com/academicpages/academicpages.github.io/issues/new/choose). For questions concerning how to style the template, please feel free to start a [new discussion on GitHub](https://github.com/academicpages/academicpages.github.io/discussions).
-
-This repository was forked (then detached) by [Stuart Geiger](https://github.com/staeiou) from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/), which is © 2016 Michael Rose and released under the MIT License (see LICENSE.md). It is currently being maintained by [Robert Zupko](https://github.com/rjzupkoii) and additional maintainers would be welcomed.
-
-## Bugfixes and enhancements
-
-If you have bugfixes and enhancements that you would like to submit as a pull request, you will need to [fork](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/working-with-forks/fork-a-repo) this repository as opposed to using it as a template. This will also allow you to [synchronize your copy](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/working-with-forks/syncing-a-fork) of template to your fork as well.
-
-Unfortunately, one logistical issue with a template theme like Academic Pages that makes it a little tricky to get bug fixes and updates to the core theme. If you use this template and customize it, you will probably get merge conflicts if you attempt to synchronize. If you want to save your various .yml configuration files and markdown files, you can delete the repository and fork it again. Or you can manually patch.
+## TOOLS & SKILLS
+##### JIRA, Clarity, Figma, Mural, Microsoft Suite, SQL, PowerBI, Tableau, C#, JavaScript, GCP, API
